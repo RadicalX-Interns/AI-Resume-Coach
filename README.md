@@ -28,7 +28,7 @@ The primary goal is to build a robust resume parsing system capable of extractin
 - React UI use case
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/RadicalX-Interns/AI_RESUME_COACH`
+1. Clone the repository: `git clone https://github.com/RadicalX-Interns/AI-Resume-Coach`
 2. Install dependencies: `pip install -r requirements.txt`
 
 ## Usage
