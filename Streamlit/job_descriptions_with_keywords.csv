@@ -1,0 +1,226 @@
+category,description,qualification,requirement,Keywords
+Data Scientist,"As a Data Scientist, your role involves close collaboration with product design and engineering teams to understand their needs. You will conduct research, devising innovative statistical models for data analysis, and subsequently build and integrate these models into our products. Effective communication of your findings to all stakeholders is crucial, contributing directly to decision-making processes. Additionally, your commitment to staying current with technical and industry developments is essential to ensuring ongoing innovation. If you are passionate about data analysis, enjoy collaboration, and thrive on contributing to product enhancement, we invite you to join our team where your insights will play a key role in shaping our products and processes.","Bachelor’s degree (or equivalent) in statistics, technology, applied mathematics, or related discipline.
+Professional certification
+3-5 years of experience in data science
+Proficiency with data mining, mathematics, and statistical analysis
+Advanced experience in pattern recognition and predictive modeling
+Experience with Excel, PowerPoint, SQL, and Python
+Experience in building data science models using Spacy, BERT, Ahocorasick, random forest etc.
+Ability to work effectively in a dynamic, research-oriented group that has several concurrent projects.",,"['join', 'powerpoint', 'models', 'team', 'commitment', 'devising innovative statistical models', 'effective communication', 'ahocorasick', 'bachelor ’', 'key role', 'findings', 'thrive', 'enjoy collaboration', 'experience', 'bert', 'mathematics', 'insights', 'industry developments', 'nan', 'integrate', 'essential', 'crucial', 'stakeholders', 'predictive modeling experience', 'contributing directly', 'oriented group', 'research', 'needs', 'data mining', 'engineering teams', 'work effectively', 'technology', 'pattern recognition', 'decision', 'data science proficiency', 'degree', 'ensuring ongoing innovation', 'making processes', 'products', 'subsequently build', 'several concurrent projects', 'python experience', 'ability', 'sql', 'random forest etc', 'passionate', 'staying current', 'contributing', 'related discipline', 'excel', 'product design', 'dynamic', 'additionally', 'equivalent', 'role involves close collaboration', 'technical', 'data analysis', 'professional certification 3', 'applied mathematics', 'play', 'processes', '5 years', 'statistics', 'building data science models using spacy', 'shaping', 'conduct research', 'data scientist', 'invite', 'product enhancement', 'statistical analysis advanced experience', 'understand']"
+Python Developer,"This is a full-time remote role for a Python Developer. The Python Developer will be responsible for developing software and web applications, including back-end web development and databases. The Developer will also be responsible for programming, testing, and debugging applications in adherence to software development life cycle (SDLC) standards.","Experience in Back-End Web Development and Software Development
+Strong Object-Oriented Programming (OOP) skills
+Experience with programming languages such as Python, Java, and C++
+Experience in database design, development, and management
+Strong problem-solving and analytical skills
+Bachelor's degree in Computer Science, Software Engineering or related field
+Experience working with Agile software development methodologies is a plus",Python Developer,"['developer', 'databases', 'programming languages', 'software development strong object', 'debugging applications', 'sdlc', 'java', 'responsible', 'c ++ experience', 'experience', 'software engineering', 'related field experience working', 'development', 'degree', 'management strong problem', 'database design', 'oop', 'also', 'end web development', 'testing', 'back', 'oriented programming', 'skills experience', 'computer science', 'developing software', 'programming', 'analytical skills bachelor', 'web applications', 'including back', 'agile software development methodologies', 'plus', 'adherence', 'solving', 'full', 'time remote role', 'python developer', 'python', 'software development life cycle', 'standards']"
+Python Developer,"As a Backend Software Developer at Think Huge Limited, you will play a crucial role in the development and maintenance of our hosting infrastructure, as well as creating and enhancing web applications. Your responsibilities will include collaborating with cross-functional teams, designing and implementing software solutions, and ensuring the scalability, performance, and reliability of our systems.
+","Proven experience as a Backend Software Developer, with a strong focus on PHP and Python.
+Commercial experience with Laravel and other PHP frameworks is highly beneficial.
+Basic knowledge of servers, virtualization, and networking concepts, especially in a hosting environment.
+Proficiency in Bash, Perl, and Python is a significant advantage.
+Strong understanding of MySQL and database design principles.
+Familiarity with Test-Driven Development (TDD) and experience using PHPUnit.
+Proficiency with GitHub for version control and collaborative development.
+Experience using Postman for API testing.
+Excellent problem-solving skills and the ability to work well in a team.",,"['version control', 'include collaborating', 'creating', 'test', 'responsibilities', 'think huge limited', 'team', 'crucial role', 'ensuring', 'experience using postman', 'excellent problem', 'designing', 'php frameworks', 'enhancing web applications', 'api testing', 'basic knowledge', 'bash', 'implementing software solutions', 'solving skills', 'github', 'perl', 'nan', 'functional teams', 'database design principles', 'reliability', 'strong understanding', 'strong focus', 'scalability', 'development', 'commercial experience', 'proven experience', 'proficiency', 'work well', 'maintenance', 'especially', 'ability', 'servers', 'collaborative development', 'networking concepts', 'laravel', 'driven development', 'performance', 'mysql', 'virtualization', 'well', 'cross', 'backend software developer', 'play', 'tdd', 'significant advantage', 'experience using phpunit', 'hosting environment', 'familiarity', 'php', 'highly beneficial', 'systems', 'python', 'hosting infrastructure']"
+Business Analyst,"We are seeking a motivated and detail-oriented Business Analyst Intern to join our team. This internship provides a unique opportunity to gain hands-on experience in analyzing business processes, eliciting and documenting requirements, and contributing to the success of projects within a dynamic and collaborative environment.
+","Currently pursuing a degree in Computer Science, Business Administration, Information Systems, or a related field.
+ Enthusiastic about pursuing a career in business analysis.
+ Strong attention to detail and organizational skills.
+ Proficient in Microsoft Office tools (Excel, Word, PowerPoint).
+ Eagerness to learn and adapt to new challenges."," Strong analytical and problem-solving skills.
+ Excellent communication and interpersonal skills.
+ Ability to work independently and collaboratively in a team.
+ Basic understanding of business processes and systems.
+ Eagerness to learn and contribute to various aspects of business analysis.","['join', 'interpersonal skills', 'enthusiastic', 'strong attention', 'team', 'strong analytical', 'proficient', 'collaboratively', 'projects within', 'success', 'contribute', 'documenting requirements', 'experience', 'solving skills', 'eliciting', 'business administration', 'detail', 'seeking', 'information systems', 'basic understanding', 'related field', 'business analysis', 'analyzing business processes', 'degree', 'learn', 'gain hands', 'eagerness', 'unique opportunity', 'ability', 'pursuing', 'excel', 'contributing', 'excellent communication', 'motivated', 'powerpoint ).', 'collaborative environment', 'organizational skills', 'dynamic', 'computer science', 'career', 'problem', 'work independently', 'currently pursuing', 'various aspects', 'microsoft office tools', 'adapt', 'oriented business analyst intern', 'business processes', 'internship provides', 'systems', 'word', 'new challenges']"
+Software Developer,"We are seeking a software developer intern who is passionate about developing high-quality software products. The intern will work closely with the founding team to design, develop, test and deploy software solutions. This is a great opportunity for individuals who want to gain hands-on experience and learn from experienced professionals in the field.
+","Previous experience in software development or related field
+Familiarity with Agile/Scrum methodology
+Strong communication skills","Pursuing a degree in Computer Science or related field
+Strong programming skills in at least one programming language (Java, Python,C#,Rust etc.)
+Familiarity with databases and SQL
+Knowledge of software development life cycle (SDLC)
+Excellent problem-solving skills
+Ability to work in a team environment","['work', 'databases', 'test', 'design', 'scrum methodology strong communication skills', 'least one programming language', 'sdlc', 'java', 'excellent problem', 'c #, rust etc .)', 'previous experience', 'work closely', 'team environment', 'experience', 'quality software products', 'sql knowledge', 'seeking', 'degree', 'related field familiarity', 'founding team', 'field', 'develop', 'want', 'learn', 'gain hands', 'great opportunity', 'agile', 'pursuing', 'passionate', 'individuals', 'related field strong programming skills', 'experienced professionals', 'software development', 'software developer intern', 'computer science', 'solving skills ability', 'deploy software solutions', 'familiarity', 'python', 'software development life cycle', 'intern', 'developing high']"
+Machine Learning Engineer,We are seeking a visionary Machine Learning Engineer with a strong understanding of the Salesforce platform. This role presents a unique opportunity to combine your technical expertise with your Salesforce knowledge to create groundbreaking AI-powered solutions.,"MSc in Computer Science, Engineering, or related field (or equivalent experience).
+7+ years of experience as a Machine Learning Engineer or similar role.
+Comprehensive understanding of the Salesforce platform and Einstein capabilities.
+Experience with Salesforce development tools and APIs.
+Proficiency in Python and other relevant programming languages (R, SQL).
+Strong understanding of machine learning algorithms, data preprocessing, and model evaluation.
+Ability to translate business needs into technical requirements.
+Excellent communication and collaboration skills.
+Strong analytical and problem-solving abilities.
+Passion for innovation and continuous learning. ",,"['comprehensive understanding', 'strong analytical', 'apis', 'engineering', 'experience', 'msc', 'create groundbreaking ai', 'salesforce platform', 'nan', 'strong understanding', 'technical expertise', 'combine', 'seeking', 'solving abilities', 'similar role', 'related field', 'equivalent experience ).', 'technical requirements', 'proficiency', 'machine learning engineer', 'collaboration skills', 'unique opportunity', 'einstein capabilities', 'ability', 'salesforce development tools', 'machine learning algorithms', 'r', 'continuous learning', 'excellent communication', '7', 'powered solutions', 'role presents', 'visionary machine learning engineer', 'computer science', 'problem', 'passion', 'sql ).', 'data preprocessing', 'relevant programming languages', 'salesforce knowledge', 'innovation', 'years', 'translate business needs', 'python', 'model evaluation']"
+Python Developer,"As a Python Developer at our company, you will play a key role in the design, development, and maintenance of high-quality software solutions. You will work closely with cross-functional teams to deliver innovative products that meet our clients' needs.
+","Bachelor's or Master's degree in Computer Science, Engineering, or a related field.
+Proven experience as a Python Developer or similar role.
+Strong understanding of object-oriented programming and data structures.
+Experience with SQL and database design.
+Experience with version control systems, such as Git.
+Familiarity with front-end technologies like HTML, CSS, and JavaScript.
+Ability to work in a collaborative team environment.
+Excellent problem-solving and analytical skills.
+Experience with Agile methodologies and tools.
+Knowledge of software testing and debugging.",,"['work', 'knowledge', 'design', 'javascript', 'css', 'excellent problem', 'software testing', 'work closely', 'company', 'key role', 'master', 'experience', 'engineering', 'nan', 'analytical skills', 'functional teams', 'strong understanding', 'version control systems', 'deliver innovative products', 'needs', 'development', 'similar role', 'related field', 'degree', 'quality software solutions', 'proven experience', 'agile methodologies', 'database design', 'maintenance', 'ability', 'clients', 'sql', 'bachelor', 'meet', 'debugging', 'high', 'end technologies like html', 'git', 'oriented programming', 'computer science', 'cross', 'collaborative team environment', 'play', 'solving', 'familiarity', 'data structures', 'object', 'tools', 'front', 'python developer']"
+DATA ENGINEER,"Aws data lake and AWS data hub and AWS cloud platform. Able to enrich data by data transformation and joining with other datasets. Able to analyze data and derive statistical insights. Able to convey story through data visualization. Ability to build Data pipelines for diverse interfaces. Good understating of API workflow. Good written and verbal communication skills Good Team player. Strong analytical and logical reasoning skills. Se If-motivated, Ability to complete assignments i independently. Ability to make decisions. Ability to work effectively under stress. Flexible towork in global time zones. Ability to work with wider spectrum of stakeholders and senior managements.",,,"['work', 'strong analytical', 'build data pipelines', 'aws data hub', 'good understating', 'data transformation', 'aws data lake', 'good written', 'analyze data', 'complete assignments', 'data visualization', 'nan', 'independently', 'derive statistical insights', 'stakeholders', 'datasets', 'senior managements', 'stress', 'work effectively', 'api workflow', 'global time zones', 'diverse interfaces', 'ability', 'flexible towork', 'wider spectrum', 'motivated', 'enrich data', 'se', 'verbal communication skills good team player', 'joining', 'make decisions', 'aws cloud platform', 'convey story', 'able', 'logical reasoning skills']"
+Full Stack Developer,"We are seeking a passionate and talented Entry-Level Full Stack Developer to join our dynamic team. In this role, you will have the opportunity to work on cutting-edge technologies and contribute to the development of high-quality web and mobile applications. Your primary focus will be on developing backend services using Node.js, Fastly, and Fauna, and building user-friendly front-end interfaces with Flutter and Dart.","Bachelor’s degree in Computer Science, Information Technology, or a related field (or equivalent experience).
+Understanding of Node.js, Fastly, and Fauna for backend development.
+Familiarity with Flutter and Dart for front-end development.
+Strong problem-solving skills and attention to detail.
+Eagerness to learn, adapt, and work in a fast-paced environment.
+Good communication skills and ability to work effectively in a team.
+Basic understanding of version control systems like Git.",,"['work', 'building user', 'join', 'mobile applications', 'version control systems like git', 'flutter', 'strong problem', 'team', 'backend development', 'good communication skills', 'bachelor ’', 'attention', 'fauna', 'contribute', 'solving skills', 'paced environment', 'nan', 'detail', 'talented entry', 'end interfaces', 'seeking', 'development', 'related field', 'work effectively', 'developing backend services using node', 'equivalent experience ).', 'basic understanding', 'degree', 'learn', 'ability', 'dart', 'quality web', 'js', 'passionate', 'high', 'node', 'cutting', 'opportunity', 'dynamic team', 'primary focus', 'computer science', 'fastly', 'level full stack developer', 'edge technologies', 'fast', 'friendly front', 'familiarity', 'information technology', 'adapt', 'end development', 'front', 'eagerness', 'understanding', 'role']"
+AI Developer,"Candidates with 3+ year of experience into the same domain is preferred.
+
+Salary hike will be given on the basis of previous experience and interview procedure and tasks.","A bachelors degree in computer science
+
+Minimum 3+years of proficience in-hand experience in python.
+
+Strong project management skills.
+
+Hands on experience on other back-end languages such as react.js
+
+Familiarity with database technologies of Machine learning.
+
+Hands on experience of AI and ML libraries and frameworks such as TensorFlow, Scikit learn and PyTorch.",,"['year', 'hands', 'previous experience', 'hand experience', 'ai', 'experience', 'preferred', 'proficience', '3', 'nan', 'database technologies', 'js familiarity', 'frameworks', 'strong project management skills', 'react', 'scikit learn', 'tasks', 'salary hike', 'given', 'ml libraries', 'back', 'domain', 'candidates', 'machine learning', 'tensorflow', 'basis', 'bachelors degree', 'end languages', 'years', 'pytorch', 'python', 'computer science minimum 3', 'interview procedure']"
+Systems Software Engineering,We are looking for a Systems Software Engineering Intern! Are you passionate about Imaging systems? Do you want to explore and be part of a highly innovative and creative global Imaging Team? Then this is the opportunity you should be looking for. We at NVIDIA will provide you opportunity to explore your passion and work on the newest technology collaborating with industry authorities.,"We are searching for highly self-motivated and dedicated engineer with strong academic background.
+Good understanding of Operating system fundamental, programming languages and processor architecture.
+Excellent C/C++ coding skills along with proficiency in Scripting languages like Python.
+Experience of working and programming on Linux environment.
+We expect effective communication and team work along with good problem solving and analytical skills.
+BE/B.Tech/ME/M.Tech in Compute Science/ Electrical Engineering or equivalent with strong verbal and written skills.",,"['work', 'programming languages', 'expect effective communication', 'tech', 'good understanding', 'b', 'processor architecture', 'operating system fundamental', 'written skills', 'experience', 'excellent c', 'nvidia', 'nan', 'analytical skills', 'explore', 'scripting languages like python', 'dedicated engineer', 'strong academic background', 'imaging systems', 'want', 'proficiency', 'looking', 'c ++ coding skills along', 'electrical engineering', 'newest technology collaborating', 'passionate', 'strong verbal', 'motivated', 'creative global imaging team', 'opportunity', 'working', 'compute science', 'equivalent', 'systems software engineering intern', 'programming', 'searching', 'good problem solving', 'passion', 'part', 'linux environment', 'highly innovative', 'provide', 'highly self', 'team work along', 'industry authorities']"
+Python Developer,"
+We are looking for a Python Developer to join our engineering team and help us develop and maintain various software products.
+
+Python Developer responsibilities include writing and testing code, debugging programs and integrating applications with third-party web services. To be successful in this role, you should have experience using server-side logic and work well in a team.
+
+Ultimately, you’ll build highly responsive web applications that align with our business needs.","Work experience as a Python Developer
+Expertise in at least one popular Python framework (like Django, Flask or Pyramid)
+Knowledge of object-relational mapping (ORM)
+Familiarity with front-end technologies (like JavaScript and HTML5)
+Team spirit
+Good problem-solving skills",,"['join', 'role', 'build highly responsive web applications', 'knowledge', 'team', 'relational mapping', 'testing code', 'align', 'least one popular python framework', 'solving skills', 'orm', 'nan', 'like django', 'like javascript', 'successful', 'team spirit good problem', 'end technologies', 'maintain various software products', 'side logic', 'party web services', 'work well', 'looking', 'debugging programs', 'business needs', 'integrating applications', '’', 'work experience', 'python developer responsibilities include writing', 'html5', 'familiarity', 'flask', 'engineering team', 'object', 'ultimately', 'python developer expertise', 'pyramid', 'front', 'help us develop', 'python developer', 'experience using server', 'third']"
+Frontend Developer,"Join a top gaming studio as a Frontend Developer and shape the visual experience of our gaming products. As a key member of our team, you'll be responsible for designing and implementing captivating user interfaces that enhance gameplay and player engagement. Collaborate with passionate game developers and artists to create immersive gaming experiences. If you're a creative coder with a passion for gaming, apply now to play a pivotal role in crafting the future of interactive entertainment. Level up your career today!
+","Bachelor's degree in Computer Science, Software Engineering, or a related field.
+Proficiency in HTML, CSS, and JavaScript, with expertise in modern frontend frameworks such as React, Angular, or Vue.js.
+Strong problem-solving skills, with the ability to troubleshoot and resolve complex frontend issues effectively.
+Solid understanding of data structures and algorithms, applying them to optimize frontend performance.
+Demonstrated experience in designing and implementing scalable and maintainable code architectures for web applications.
+Familiarity with responsive design principles and cross-browser compatibility.
+Experience with version control systems (e.g., Git) and frontend build tools (e.g., Webpack).
+Excellent collaboration and communication skills, working seamlessly with cross-functional teams including designers and back-end engineers.
+A portfolio of previous frontend projects or contributions showcasing your problem-solving and code architecture skills is a plus.",,"['team', 'interactive entertainment', 'strong problem', 'responsible', 'solving skills', 'modern frontend frameworks', 'gaming products', 'version control systems', 'related field', 'maintainable code architectures', 'proficiency', 'solid understanding', 'ability', 'contributions showcasing', 'pivotal role', 'optimize frontend performance', 'demonstrated experience', 'familiarity', 'working seamlessly', 'g ., webpack ).', 'level', 'designing', 'create immersive gaming experiences', 'applying', 'code architecture skills', 'experience', 'software engineering', 'shape', 'frontend build tools', 'troubleshoot', 'js', 'communication skills', 'g ., git', 'passion', 'data structures', 'gaming', 'passionate game developers', 'javascript', 'html', 'player engagement', 'responsive design principles', 'resolve complex frontend issues effectively', 'previous frontend projects', 'implementing captivating user interfaces', 'degree', 'crafting', 'excellent collaboration', 'artists', 'future', 'apply', 'vue', 'e', 'end engineers', 'cross', 'browser compatibility', 'problem', 'plus', 'join', 'top gaming studio', 'css', 'key member', 'implementing scalable', 'algorithms', 'career today', 'portfolio', 'frontend developer', 'nan', 'angular', 'collaborate', 'react', 'enhance gameplay', 'expertise', 'bachelor', 'back', 'functional teams including designers', 'computer science', 'play', 'web applications', 'visual experience', 'solving', 'creative coder']"
+Backend Developer,We are currently hiring a Python Developer to join our engineering team to support dynamic software applications and contribute to feature development in existing systems.,"Minimum  2+  years of experience in software product development preferably in python stack.
+
+Solid understanding of Python Language.
+
+Prior experience in writing REST APIs and working with Microservices architecture.
+
+Working knowledge of Django and Django REST framework
+
+Good understanding of Database systems referable PostgreSQL  and prior experience with Django ORM.
+
+Understanding of fundamental design principles behind a scalable application.
+
+Experience writing process automation scripts using python.
+
+Experience in debugging and monitoring logs using AWS Cloudwatch and Kibana (ELK stack).
+
+Knowledge of cloud based development and familiarity with AWS services like S3, Cloudwatch, ECS, Fargate etc is a plus.
+
+Knowledge of  Flask framework is a plus.
+
+Basic Knowledge of Frontend technologies like HTML, CSS, JS, and ReactJS is a plus.",,"['join', 'python language', 'scalable application', 'ecs', 'python stack', 'knowledge', 'django', 'css', 'frontend technologies like html', 'monitoring logs using aws cloudwatch', 'elk stack ).', 'cloud based development', 'contribute', 'reactjs', 'basic knowledge', 'fundamental design principles behind', 'experience', 'nan', 'feature development', 'software product development preferably', 'django orm', 'experience writing process automation scripts using python', 'writing rest apis', 'minimum 2', 'support dynamic software applications', 'prior experience', 'database systems referable postgresql', 'flask framework', 'solid understanding', 'microservices architecture', 'fargate etc', 'django rest framework good understanding', 'working knowledge', 'js', 'kibana', 'debugging', 'working', 'existing systems', 'plus', 'familiarity', 'engineering team', 'aws services like s3', 'currently hiring', 'years', 'cloudwatch', 'understanding', 'python developer']"
+Full Stack Mobile Application Developer,"We are looking for a hybrid Mobile Application developer with hands on experience in Flutter, Python, Django, Postgresql, & connecting API’s from Freight Brokers & Load boards. Must be experienced and preferably with Logistics & Load board applications. Opportunity to grow with company into leadership position and a chance for equity in high growth Technology start up backed by Techstars."," B.Tech. Computer Science/M.C.A.
+ Minimum 3 years of experience in Mobile Application Development in IOS & Android .
+ Minimum 3 year of experience in Flutter Development
+ Experience in Python with knowledge of Django & Postgresql will be preferred.
+ Able to integrate multiple data sources and databases into one system
+ Understanding of the threading and multiprocessing
+ Experience with AWS will be preferred
+ Knowledge of Git, GitHub & Devops",,"['preferably', 'integrate multiple data sources', 'databases', 'knowledge', 'high growth technology start', 'django', 'flutter', 'mobile application development', 'must', 'tech', 'devops', 'hands', 'grow', 'aws', 'b', 'load boards', 'company', 'experienced', 'flutter development experience', 'experience', 'minimum 3 year', 'preferred', 'github', 'multiprocessing experience', 'nan', 'connecting api ’', 'techstars', 'logistics', 'hybrid mobile application developer', 'backed', 'threading', 'load board applications', 'ios', 'looking', 'preferred knowledge', 'c', 'android', 'git', 'equity', 'postgresql', 'opportunity', 'computer science', 'leadership position', 'freight brokers', 'chance', 'minimum 3 years', 'able', 'python', 'one system understanding']"
+Associate Software Engineer,"We are seeking a motivated and talented Associate Software Engineer Intern with a focus on HTML5, CSS3, JavaScript, PHP, MYSQL, Relational Databases, and ReactJS. This internship provides hands-on experience working with cutting-edge technologies, collaborating with cross-functional teams, and gaining exposure to various aspects of software engineering.","Enthusiastic and eager to learn about software engineering in a professional setting.
+ Strong problem-solving and critical-thinking skills.
+ Ability to work independently and collaborate effectively in a team environment.
+ Excellent communication skills, both written and verbal."," Bachelor's degree or higher in Computer Science, or similar fields.
+ Solid foundation in HTML5, CSS3, and JavaScript.
+ Proficiency in PHP and experience with MYSQL and Relational Databases.
+ Familiarity with ReactJS is a plus.
+ Ability to work independently and in a team.
+ Excellent communication and problem-solving skills.
+ ""Think outside the box"" mentality.","['enthusiastic', 'talented associate software engineer intern', 'solid foundation', 'javascript', 'team', 'thinking skills', 'box', 'strong problem', 'similar fields', 'reactjs', 'team environment', 'eager', 'experience', 'solving skills', 'software engineering', 'css3', 'collaborate effectively', 'gaining exposure', 'functional teams', 'higher', 'seeking', 'critical', 'degree', 'experience working', 'mentality', 'learn', 'proficiency', 'excellent communication skills', 'professional setting', 'written', 'ability', 'think outside', 'bachelor', 'cutting', 'motivated', 'excellent communication', 'mysql', 'computer science', 'edge technologies', 'cross', 'problem', 'work independently', 'collaborating', 'plus', 'various aspects', 'html5', 'familiarity', 'focus', 'solving', 'php', 'relational databases', 'internship provides hands', 'verbal']"
+Data Scientist,"As a Data Scientist, you will collaborate closely with product design and engineering teams to comprehend their needs, researching and devising innovative statistical models for data analysis. Your primary responsibility will be to build and integrate these models into our product, communicating your findings to all stakeholders. Staying abreast of technical and industry developments is crucial to contribute effectively.","Bachelor’s degree (or equivalent) in statistics, technology, applied mathematics, or related discipline.
+Professional certification
+3-5 years of experience in data science
+Proficiency with data mining, mathematics, and statistical analysis
+Advanced experience in pattern recognition and predictive modeling
+Experience with Excel, PowerPoint, SQL, and Python
+Experience in building data science models using Spacy, BERT, Ahocorasick, random forest etc.
+Ability to work effectively in a dynamic, research-oriented group that has several concurrent projects.","Bachelor’s degree (or equivalent) in statistics, technology, applied mathematics, or related discipline.
+Professional certification
+3-5 years of experience in data science
+Proficiency with data mining, mathematics, and statistical analysis
+Advanced experience in pattern recognition and predictive modeling
+Experience with Excel, PowerPoint, SQL, and Python
+Experience in building data science models using Spacy, BERT, Ahocorasick, random forest etc.
+Ability to work effectively in a dynamic, research-oriented group that has several concurrent projects.","['powerpoint', 'models', 'product', 'devising innovative statistical models', 'ahocorasick', 'bachelor ’', 'comprehend', 'findings', 'experience', 'bert', 'mathematics', 'primary responsibility', 'industry developments', 'integrate', 'crucial', 'stakeholders', 'predictive modeling experience', 'oriented group', 'research', 'contribute effectively', 'needs', 'data mining', 'engineering teams', 'work effectively', 'technology', 'pattern recognition', 'data science proficiency', 'degree', 'several concurrent projects', 'python experience', 'ability', 'sql', 'random forest etc', 'related discipline', 'excel', 'collaborate closely', 'build', 'researching', 'product design', 'dynamic', 'equivalent', 'technical', 'data analysis', 'communicating', 'professional certification 3', 'applied mathematics', '5 years', 'staying abreast', 'statistics', 'building data science models using spacy', 'data scientist', 'statistical analysis advanced experience']"
+Machine Learning Engineer,"Concord isn't your typical consulting firm; we are an execution company with a passion for making things happen. Our mission is to help clients enhance customer experiences, optimize operations, and revolutionize their product offerings through seamless integration, optimization, and activation of technology and data.
+
+
+We're on the lookout for a highly skilled and talented Machine Learning Engineer to join our growing team.","Undergraduate or Graduate degree (MS or PhD) in Computer Science, Engineering, Mathematics or equivalent, specializing in machine learning or a related field
+• 5+ years’ experience in supporting development of production-ready solutions leveraging AI technologies: NLP, Deep Learning, Machine Learning
+• Strong hands-on expertise in Python and open source libraries/frameworks/tools such as NumPy, SciPy, scikit-learn, pandas, matplotlib, spaCy, NLTK, jupyter, anaconda, transformers, etc.
+• Experience with deep learning frameworks such as TensorFlow, Keras, PyTorch
+• Experience in applying deep learning to NLP
+• Computer vision modeling a plus
+• Experience with designing, building, and optimizing data and model training pipelines
+• Experience in SageMaker or Azure ML Studio a plus
+• Experience with cloud-based platforms (AWS or Azure) for solution delivery
+• Experience working with agile and Software Development Lifecycle tools (e.g. JIRA, Confluence, Git) and Test-Driven Development (TDD)",,"['making things happen', 'talented machine learning engineer', 'jupyter', 'optimizing data', 'seamless integration', 'spacy', 'scikit', 'related field • 5', 'production', 'scipy', 'git', 'concord', 'machine learning', 'deep learning frameworks', 'tensorflow', 'tdd', 'supporting development', 'nlp • computer vision modeling', 'python', 'graduate degree', 'optimize operations', 'lookout', 'aws', 'designing', 'machine learning • strong hands', 'engineering', 'mathematics', 'optimization', 'frameworks', 'azure ml studio', 'mission', 'sagemaker', 'pytorch • experience', 'keras', 'revolutionize', '• experience', 'numpy', 'equivalent', 'passion', 'activation', 'plus • experience', 'pandas', 'specializing', 'confluence', 'data', 'etc', 'open source libraries', 'help clients enhance customer experiences', 'ms', 'phd', 'model training pipelines • experience', 'cloud', 'g', 'ready solutions leveraging ai technologies', 'azure', 'e', 'nltk', 'highly skilled', 'jira', 'matplotlib', 'deep learning', 'based platforms', 'building', 'applying deep learning', 'join', 'execution company', 'product offerings', 'test', 'anaconda', 'typical consulting firm', 'nan', 'solution delivery • experience working', 'technology', 'transformers', 'learn', 'nlp', 'agile', 'expertise', 'years ’ experience', 'software development lifecycle tools', 'driven development', 'computer science', 'growing team', 'tools', 'undergraduate']"
+Data Science Trainee,"This is a temporary remote learning role for a Data Science Trainee. The role will involve working with the HRBOTICS team to identify trends in data and develop predictive models to improve talent discovery, sourcing, and management. The Trainee will also collaborate with cross-functional teams to implement and deploy these models.","Bachelor's degree or higher in Computer Science, Mathematics, or related technical field
+Basic understanding of machine learning algorithms, data structures, and statistics
+Proficient in Python and SQL
+Familiarity with data visualization tools such as Tableau or PowerBI
+Excellent analytical and problem-solving skills
+Effective communication and collaboration skills
+Ability to work independently and in a team",,"['models', 'also collaborate', 'team', 'involve working', 'data', 'trainee', 'management', 'solving skills effective communication', 'mathematics', 'nan', 'functional teams', 'tableau', 'higher', 'sql familiarity', 'temporary remote learning role', 'degree', 'develop predictive models', 'data science trainee', 'improve talent discovery', 'statistics proficient', 'machine learning algorithms', 'identify trends', 'bachelor', 'collaboration skills ability', 'powerbi excellent analytical', 'computer science', 'cross', 'problem', 'implement', 'work independently', 'data visualization tools', 'sourcing', 'data structures', 'hrbotics team', 'related technical field basic understanding', 'python', 'deploy', 'role']"
+Data Scientist,"Our client is seeking a highly motivated and experienced Senior Data Scientist to join our growing team and play a key role in developing and deploying machine learning models to support their platform. 
+
+The candidate needs to possess deep expertise in data science methodologies, machine learning, and natural language processing, and will have a proven track record of successfully training and deploying models, in particular large language models (LLMs), to production. 
+
+Also, will also be able to effectively communicate your findings to both technical and non-technical audiences.","Qualification in a relevant field (e.g., computer science, mathematics, engineering, etc) - Master's degree or PhD preferred.
+8+ years of experience working in data science
+Proven experience training and deploying machine learning models to production
+Experience training and deploying large language models (LLMs)
+Strong programming skills in Python
+Experience with cloud computing platforms (e.g., AWS, Azure, GCP)
+Excellent communication skills
+Ability to work independently and as part of a team
+Experience working in a product focused role (preferred)
+Strong problem-solving and analytical skills.",,"['join', 'relevant field', 'platform', 'technical audiences', 'excellent communication skills ability', 'team experience working', 'strong problem', 'deploying machine learning models', 'deploying models', 'etc', 'support', 'key role', 'findings', 'llms ),', 'master', 'preferred', 'engineering', '8', 'mathematics', 'nan', 'analytical skills', 'candidate needs', 'possess deep expertise', 'seeking', 'data science proven experience training', 'proven track record', 'developing', 'degree', 'experience working', 'phd preferred', 'client', 'qualification', 'python experience', 'highly motivated', 'azure', 'production', 'g ., computer science', 'also', 'experienced senior data scientist', 'deploying large language models', 'successfully training', 'machine learning', 'particular large language models', 'e', 'gcp', 'technical', 'play', 'data science methodologies', 'cloud computing platforms', 'non', 'work independently', 'production experience training', 'g ., aws', 'strong programming skills', 'solving', 'part', 'product focused role', 'growing team', 'natural language processing', 'able', 'years', 'llms', 'effectively communicate']"
+Software developer,"We are seeking a dedicated and experienced Software Developer to join our dynamic team. In this role, you will be working on our proprietary framework and language, contributing to the development of innovative solutions that drive our business. To prepare you for this unique opportunity, you will participate in our comprehensive, intensive Coding Training Program designed to enhance your logical thinking, problem-solving, and coding skills.","1. Bachelor's degree in Computer Science, Information Technology, or a related field.
+2. Minimum of 2+ years of experience in software development or coding-related jobs.
+3. Active coding for the last 6 months.
+4. Previous experience in competitive coding, preferably with a proven track record on platforms like HackerRank, Codeforces, Codechef, hackerearth or LeetCode.
+
+5. Participation in coding bootcamps, hackathons, or similar coding competitions is highly desirable.
+6. Proficiency in at least one programming language such as C, C++, C#, or Java.
+7. Strong problem-solving skills and knowledge of data structures and algorithms.
+8. Excellent communication skills, with the ability to explain complex concepts in a clear and concise manner.
+9. Good stakeholder management skills, with the ability to manage expectations and communicate effectively with various stakeholders.
+10. A strong desire to learn and improve coding skills, with a commitment to personal and professional development.",,"['strong problem', 'good stakeholder management skills', 'java', 'coding skills', '8', 'solving skills', 'related field', 'proprietary framework', 'minimum', 'proficiency', 'hackathons', 'ability', '4', 'c', '10', 'contributing', 'professional development', 'last 6 months', 'preferably', 'knowledge', 'comprehensive', 'experience', '3', 'explain complex concepts', 'various stakeholders', 'c ++, c #,', 'platforms like hackerrank', 'language', 'codeforces', 'business', 'software development', 'codechef', '7', 'concise manner', 'participate', 'communicate effectively', 'competitive coding', 'data structures', 'manage expectations', '1', 'role', 'participation', 'least one programming language', '2', 'dedicated', 'personal', 'prepare', 'development', 'degree', 'clear', 'coding', '5', 'dynamic team', 'related jobs', 'hackerearth', 'problem', 'enhance', 'intensive coding training program designed', 'years', 'join', '9', 'commitment', 'algorithms', 'previous experience', 'nan', 'innovative solutions', 'highly desirable', 'seeking', 'active coding', 'proven track record', 'drive', 'strong desire', 'experienced software developer', 'leetcode', 'learn', 'excellent communication skills', 'unique opportunity', 'bachelor', 'improve coding skills', 'similar coding competitions', 'working', 'computer science', 'coding bootcamps', '6', 'solving', 'logical thinking', 'information technology']"
+Data Analytics Engineer,"As a member of the global data engineering team, reporting to the Data and Analytics Manager, this role has a primary focus on contributing to our enterprise data warehousing and reporting deliverables.
+
+
+Responsibilities include designing, creating, and maintaining business intelligence assets and reports that drive innovation, client value and business efficiency.
+
+
+This position will be working across our largest business units and experience with multi-terabyte database systems is required.
+","Experienced level knowledge - Business Intelligence/reporting tools including Microsoft SQL, SRSS, SSIS, SSAS, Power BI, DAX.
+Adept at designing and implementing effective data models and Extract, Transform, Load (ETL) processes slowly changing dimensions for transforming and loading data into the data warehouse.
+Experience incorporating data from varied relational systems (e.g. MySQL, Postgres etc), flat-file, API, and No-SQL sources.
+Understanding of data governance practices, data lineage, and data quality management to ensure accurate, consistent, and reliable data.
+Familiarity with cloud base tooling – Snowflake, DBT or Coalesce, Fivetran.
+BA/BS degree in Computer Science, Computer Engineering, or related field, or equivalent practical experience.",,"['reporting deliverables', 'load', 'api', 'creating', 'computer engineering', 'data', 'position', 'reporting', 'bs degree', 'business intelligence', 'designing', 'dax', 'experience', 'global data engineering team', 'analytics manager', 'implementing effective data models', 'nan', 'ssis', 'srss', 'experienced level knowledge', 'required', 'ensure accurate', 'transform', 'drive innovation', 'consistent', 'related field', 'business efficiency', 'data governance practices', 'g', 'dbt', 'data warehouse', 'equivalent practical experience', 'fivetran', 'client value', 'enterprise data warehousing', 'extract', 'maintaining business intelligence assets', 'reliable data', 'contributing', 'power bi', 'ssas', 'member', 'cloud base tooling – snowflake', 'e', 'reporting tools including microsoft sql', 'varied relational systems', 'loading data', 'mysql', 'etl', 'primary focus', 'computer science', 'postgres etc ), flat', 'file', 'transforming', 'adept', 'terabyte database systems', 'familiarity', 'data lineage', 'reports', 'experience incorporating data', 'sql sources', 'working across', 'processes slowly changing dimensions', 'data quality management', 'coalesce', 'ba', 'responsibilities include designing', 'largest business units', 'understanding', 'role', 'multi']"
